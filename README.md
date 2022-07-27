@@ -1,2 +1,2 @@
 # Datastructure
-## implementation for Stack / Queue / Linkedlist / Tree / BST
+## Refernce for implementation for Stack / Queue / Linkedlist / Tree / BST
