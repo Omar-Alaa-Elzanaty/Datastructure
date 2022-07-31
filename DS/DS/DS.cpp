@@ -331,7 +331,7 @@ public:
 				return temp;
 			}
 			else {
-				BST* temp = find_minimum(root->left);
+				BST* temp = find_minimum(root->right);
 				root->data = temp->data;
 				root->left = deletenode(root->left, temp->data);
 			}
